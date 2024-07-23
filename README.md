@@ -5,13 +5,17 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  - 👋 Hi, i'm Guilherme Almeida, i'm studying for one i'll became a Fullstack Developer.
-
-  - 🌱 I'm studying Typescript and BackEnd.
-
-  - 🔭 My dream is one day work at a big technology company.
-</p>
+<ul>
+  <li>
+    👋 Hi, i'm Guilherme Almeida, i'm studying for one i'll became a Fullstack Developer.
+  </li>
+  <li>  
+    🌱 I'm studying Typescript and BackEnd.
+  </li>
+  <li>
+    🔭 My dream is one day work at a big technology company.
+  </li>
+</ul>
 
 <!-- Dropdown -->
 <details>
