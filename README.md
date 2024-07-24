@@ -56,3 +56,5 @@
     <h3>Tools & Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,react" />
   </div>
+
+  ![snake gif](https://github.com/guilhermealmeidao/guilhermealmeidao/blob/output/github-contribution-grid-snake.gif)
