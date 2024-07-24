@@ -48,11 +48,11 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=react,html,css,typescript,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,python" />
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,bash,react" />
   </div>
