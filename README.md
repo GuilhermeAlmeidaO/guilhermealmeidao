@@ -10,7 +10,7 @@
     👋 Hi, i'm Guilherme Almeida, i'm studying for one i'll became a Fullstack Developer.
   </li>
   <li>  
-    🌱 I'm studying Typescript and BackEnd.
+    🌱 I'm studying Typescript, NextJs and BackEnd.
   </li>
   <li>
     🔭 My dream is one day work at a big technology company.
@@ -54,5 +54,5 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,bash,react" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,bash,react,nodejs,npm,yarn" />
   </div>
