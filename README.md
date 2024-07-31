@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <ul>
   <li>
-    👋 Hi, i'm Guilherme Almeida, i'm studying for one i'll became a Fullstack Developer.
+    👋 Hi, i'm Guilherme Almeida, i'm studying for one day i'll became a Fullstack Developer.
   </li>
   <li>  
     🌱 I'm studying Typescript, NextJs and BackEnd.
