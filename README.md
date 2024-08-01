@@ -56,3 +56,4 @@
     <h3>Tools & Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,react,nodejs,npm,yarn" />
   </div>
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&theme=omni&show_icons=true&hide_border=false&count_private=true" height="200px"  alt="Sambit's Github stats" />
