@@ -34,9 +34,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&show_icons=true&theme=dark#gh-dark-mode-only)
-<div style="text-align: left;">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealmeidao&show_icons=true&hide_border=false&layout=compact&theme=dark#gh-dark-mode-only"  height="200px" />
-</div>
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealmeidao&show_icons=true&hide_border=false&layout=compact&theme=dark#gh-dark-mode-only)
 
 <!--![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&show_icons=true&theme=gotham)-->
 
