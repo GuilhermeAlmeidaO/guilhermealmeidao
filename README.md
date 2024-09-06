@@ -56,5 +56,5 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,bash,react,nodejs,npm,yarn,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,bash,react,nodejs,npm,yarn,tailwind,nextjs,jest" />
   </div>
