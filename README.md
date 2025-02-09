@@ -10,7 +10,7 @@
     👋 Hi, i'm Guilherme Almeida, i'm studying for one day i'll became a Fullstack Developer.
   </li>
   <li>  
-    🌱 I'm studying Typescript, NextJs and BackEnd.
+    🌱 I'm studying NextJs and BackEnd.
   </li>
   <li>
     🔭 My dream is one day work at a big technology company.
