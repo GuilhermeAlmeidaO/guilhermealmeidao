@@ -58,3 +58,4 @@
     <h3>Tools & Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,react,nodejs,npm,yarn,tailwind,nextjs,jest,bootstrap" />
   </div>
+<a href="https://u8views.com/github/GuilhermeAlmeidaO"><img src="https://u8views.com/api/v1/github/profiles/139594850/views/day-week-month-total-count.svg"></a>
