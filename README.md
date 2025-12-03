@@ -46,8 +46,8 @@
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio) -->
 
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
+## 🔥 Skills
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,python" />
