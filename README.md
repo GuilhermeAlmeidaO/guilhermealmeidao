@@ -21,9 +21,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I have studying English for 5 years and have experience with Python, Javascript, Typescript, React. I'm also a medalist of the mathematics olympiad of the state of São Paulo, which helped me develop important skills such as have a good logic and know solve a problem wisely.
+  - 💬 I am currently living in Brazil. I've been studying English for 5 years and i have experience with Python, Javascript, Typescript, React. I'm also a medalist of the mathematics olympiad of the state of São Paulo in the year 2024, which helped me develop important skills such as have a good logic and know solve a problem wisely.
 
-  - ⚡ I enjoy watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy watching movies and playing games! I believe that my personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
@@ -33,8 +33,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee) -->
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&show_icons=true&theme=dark#gh-dark-mode-only)
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealmeidao&show_icons=true&hide_border=false&layout=compact&theme=dark#gh-dark-mode-only)
+<!-- ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&show_icons=true&theme=dark#gh-dark-mode-only)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealmeidao&show_icons=true&hide_border=false&layout=compact&theme=dark#gh-dark-mode-only) -->
 
 <!--![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealmeidao&show_icons=true&theme=gotham)-->
 
