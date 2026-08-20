@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Almeida
+# 👨‍💻 Guilherme Almeida
 
 **`Desenvolvedor FullStack`**
 
